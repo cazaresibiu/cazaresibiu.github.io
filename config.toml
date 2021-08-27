@@ -1,6 +1,6 @@
 title = "Apartament Sibiu"
-baseURL = "http://192.168.0.208:1313/"
-languageCode = "en-us"
+baseURL = "http://192.168.0.208:1313"
+languageCode = "ro-ro"
 theme = ["ananke", "hugo-shortcode-gallery"]
 # themesDir = "../.."
 resourceDir = "../resources"
@@ -10,7 +10,8 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
+[markup.goldmark.renderer]
+unsafe= true
 [languages]
   [languages.en]
     title = "My blog"
@@ -28,7 +29,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
