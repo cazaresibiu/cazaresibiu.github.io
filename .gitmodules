@@ -1,3 +1,6 @@
 [submodule "themes/hugo-shortcode-gallery"]
 	path = themes/hugo-shortcode-gallery
 	url = https://github.com/mfg92/hugo-shortcode-gallery
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/paulbarbu/gohugo-theme-ananke
