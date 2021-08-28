@@ -1,7 +1,7 @@
 ---
 title: "Cazare in Sibiu la Apartament"
 date: 2021-08-26T22:52:50+03:00
-draft: true
+draft: false
 description: "Cazare in Sibiu"
 omit_header_text: true
 keywords: ["test"]
