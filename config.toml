@@ -1,5 +1,5 @@
 title = "Apartament Sibiu"
-baseURL = "http://192.168.0.208:1313"
+baseURL = "https://cazaresibiu.github.io"
 languageCode = "ro-ro"
 theme = ["ananke", "hugo-shortcode-gallery"]
 # themesDir = "../.."
