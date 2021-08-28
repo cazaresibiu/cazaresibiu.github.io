@@ -8,4 +8,5 @@ build-debug:
 	hugo -D
 
 build: 
-	HUGO_ENV=production hugo
+	HUGO_ENV=production hugo --minify
+	python -m http.server --directory public
